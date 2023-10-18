@@ -1,5 +1,5 @@
-# README
-## 一個未完成主題
+# vscode color theme
+## a color theme by Xian
 
 
 
