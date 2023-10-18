@@ -1,0 +1,25 @@
+{
+  "name": "hakkatheme",
+  "publisher": "Xian0121",
+  "displayName": "HakkaTheme",
+  "description": "a color theme design by Xian",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xian-color-theme.json"
+      }
+    ]
+  },
+    "dependencies": {
+      "@vscode/vsce": "^2.21.1"
+    }
+  }
